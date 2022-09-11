@@ -10,7 +10,7 @@ In order to get more familiar with Rust, the following tasks have been done:
   
     * Learn Rust by Building Real Applications (https://www.udemy.com/course/rust-fundamentals/)
     
-  * Following the tutorials on Substrate (https://docs.substrate.io/tutorials/). More in particular,
+ Then, to be more familiar with Substrate, tutorials on Substrate have been followed (https://docs.substrate.io/tutorials/). More in particular,
 
     * Build a local blockchain
     
@@ -24,9 +24,11 @@ In order to get more familiar with Rust, the following tasks have been done:
      
     * Benchmark
 
-  * Testing smart contracts with the playground:
+  * Testing smart contracts with the ink playground has also be done (https://ink.substrate.io/). For instance:
 
     * ERC20
+    
+    * ERC721
 
 
 
