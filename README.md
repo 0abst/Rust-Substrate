@@ -10,7 +10,7 @@ In order to get more familiar with Rust, the following tasks have been done:
   
     * Learn Rust by Building Real Applications (https://www.udemy.com/course/rust-fundamentals/)
     
- Then, to be more familiar with Substrate, tutorials on Substrate have been followed (https://docs.substrate.io/tutorials/). More in particular,
+Then, to be more familiar with Substrate, tutorials on Substrate have been followed (https://docs.substrate.io/tutorials/). More in particular,
 
     * Build a local blockchain
     
