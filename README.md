@@ -12,23 +12,23 @@ In order to get more familiar with Rust, the following tasks have been done:
     
 Then, to be more familiar with Substrate, tutorials on Substrate have been followed (https://docs.substrate.io/tutorials/). More in particular,
 
-    * Build a local blockchain
+  * Build a local blockchain
     
-    * Add a pallet to the runtime
+  * Add a pallet to the runtime
      
-    * Develop smart contracts
+  * Develop smart contracts
 
-    * Unit test
+  * Unit test
     
-    * Debug
+  * Debug
      
-    * Benchmark
+  * Benchmark
 
-  * Testing smart contracts with the ink playground has also be done (https://ink.substrate.io/). For instance:
+Smart contracts testing with the ink playground has also be done (https://ink.substrate.io/). For instance:
 
-    * ERC20
+  * ERC20
     
-    * ERC721
+  * ERC721
 
 
 
