@@ -24,7 +24,9 @@ In order to get more familiar with Rust, the following tasks have been done:
      
     * Benchmark
 
+  * Testing smart contracts with the playground:
 
+    * ERC20
 
 
 
