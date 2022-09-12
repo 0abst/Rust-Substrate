@@ -1,6 +1,6 @@
 # Getting familiar with Rust / Substrate
 
-In order to get more familiar with Rust, the following tasks have been done:
+#### In order to get more familiar with Rust, the following tasks have been done:
 
   * Rustlings exercises (https://github.com/rust-lang/rustlings):
   
@@ -14,7 +14,7 @@ In order to get more familiar with Rust, the following tasks have been done:
   
     * https://doc.rust-lang.org/book/
     
-Then, to be more familiar with Substrate, tutorials on Substrate have been followed (https://docs.substrate.io/tutorials/). More in particular,
+#### Then, to be more familiar with Substrate, tutorials on Substrate have been followed (https://docs.substrate.io/tutorials/). More in particular,
 
   * Build a local blockchain
   
