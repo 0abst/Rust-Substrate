@@ -1,6 +1,6 @@
 # Getting familiar with Rust / Substrate
 
-#### In order to get more familiar with Rust, the following tasks have been done:
+In order to get more familiar with Rust, the following tasks have been done:
 
   * Rustlings exercises (https://github.com/rust-lang/rustlings):
   
@@ -14,7 +14,7 @@
   
     * https://doc.rust-lang.org/book/
     
-#### Then, to be more familiar with Substrate, tutorials on Substrate have been followed (https://docs.substrate.io/tutorials/). More in particular,
+Then, to be more familiar with Substrate, tutorials on Substrate have been followed (https://docs.substrate.io/tutorials/). More in particular,
 
   * Build a local blockchain
   
@@ -27,6 +27,16 @@
     * As shown in the tutorial, to add the Nicks pallet, the files Cargo.toml and src/lib.rs of the Runtime folder shall be modified. These can be found in the repository
      
   * Develop smart contracts
+  
+      * Several smart contracts have been compiled and then deployed. Interactions wiht the Gui also took place. The contracts are:
+    
+      	* Flipper (my_contract)
+      	
+      	* Increment
+      	
+      	* ERC20
+      	
+Several .contract files can be found in the repository as well as a screenshot of the interaction with the UI can be found in the folder. The .contract file combines the Wasm and metadata into one file and can be used for instantiation. In order to build contracts, the use of the Docker image provided by Parity was needed (https://github.com/paritytech/cargo-contract)
   
   * Tests:
 
