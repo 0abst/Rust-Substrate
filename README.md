@@ -14,6 +14,8 @@ In order to get more familiar with Rust, the following tasks have been done:
   
     * https://doc.rust-lang.org/book/
     
+    * The implementation of the Multithreaded Web Server (chapter 20) can be found in the repository
+    
 Then, to be more familiar with Substrate, tutorials on Substrate have been followed (https://docs.substrate.io/tutorials/). More in particular,
 
   * Build a local blockchain
