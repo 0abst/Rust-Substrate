@@ -2,9 +2,7 @@
 
 In order to get more familiar with Rust, the following tasks have been done:
 
-  * Rustlings exercises (https://github.com/rust-lang/rustlings):
-  
-    * Most of the exercises from Rustlings have been completed
+  * Halfway through the Rustlings exercises (https://github.com/rust-lang/rustlings)
 
   * Udemy course:
   
